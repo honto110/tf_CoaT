@@ -1,1 +1,2 @@
-# tf_CoaT
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="CoaT_CoScale_ConvAttentional_Image_Transformers_Tensorflow_version_0"></a>CoaT: Co-Scale Conv-Attentional Image Transformers (Tensorflow version)</h1>
+<p class="has-line-data" data-line-start="1" data-line-end="2">This repository contains unofficial tensorflow implementation for CoaT: Co-Scale Conv-Attentional Image Transformers. It also supports loading pretrained weights from official pytorch models.</p>
