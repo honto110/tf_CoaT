@@ -1,4 +1,5 @@
 Tensorflow CoaT
-Copyright (ICCV 2021 Oral) CoaT: Co-Scale Conv-Attentional Image Transformers. [https://arxiv.org/abs/2104.06399]
+Copyright (ICCV 2021 Oral) CoaT: Co-Scale Conv-Attentional Image Transformers. [https://arxiv.org/abs/2104.06399, https://github.com/mlpc-ucsd/CoaT] 
+Apache License 2.0 [https://github.com/mlpc-ucsd/CoaT/blob/main/LICENSE]
 
-This code modified from github.com/mlpc-ucsd/CoaT/blob/main/src/models/coat.py.
+This code modified from github.com/mlpc-ucsd/CoaT/blob/main/src/models/coat.py. 
